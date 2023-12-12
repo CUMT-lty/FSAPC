@@ -1,0 +1,16 @@
+/package-lock.json
+/hfc-key-store/
+/wallet/
+node_modules/
+crypto-config/
+connection-*
+*.tx
+*.block
+.DS_Store
+wallet/
+log.*
+/fabric-samples
+.vagrant/
+*.log
+id_rsa.pub
+id_rsa
